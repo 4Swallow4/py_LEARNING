@@ -3,19 +3,19 @@
 scores = [92, 85, 76]
 print("原始:", scores)
 
-scores.append(88)
+scores.append(88) #末尾追加
 print("append 88:", scores)
 
-scores.insert(0, 100)
+scores.insert(0, 100) #指定第0个索引位插入
 print("insert 100:", scores)
 
-last = scores.pop()
+last = scores.pop() #弹出最后一个元素
 print("pop 出", last, "剩下", scores)
 
 print("第一个", scores[0], "最后一个", scores[-1])
 print("切片 [1:3]", scores[1:3])
 print("sum/max/min", sum(scores), max(scores), min(scores))
-print("sorted 新列表", sorted(scores), "原来还是", scores)
+print("sorted 新列表", sorted(scores), "原来还是", scores) #sorted 返回新列表(从小到大)，原列表不变
 
 # 遍历
 total = 0
