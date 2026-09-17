@@ -1,0 +1,5 @@
+[
+  {"id": 1, "text": "把第 4 章列表示例跑一遍", "done": true},
+  {"id": 2, "text": "独立写完练习场第 1 题", "done": false},
+  {"id": 3, "text": "给 password_generator 加一个 --count 参数", "done": false}
+]

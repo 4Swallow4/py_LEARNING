@@ -1,0 +1,6 @@
+[    7557ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://web-static.archive.org/_static/fonts/Iconochive-Regular.woff @ https://web-static.archive.org/_static/js/bundle-playback.js?v=Li6h_J3j:1
+[    8935ms] Unexpected token 'export'
+[    9220ms] NetworkError: Failed to execute 'importScripts' on 'WorkerGlobalScope': The script at 'https://web-static.archive.org/_static/wombatWorkers.js' failed to load.
+    at blob:https://web.archive.org/870ad34c-eea0-4eaa-a650-2ca8b394d09e:1:20
+    at blob:https://web.archive.org/870ad34c-eea0-4eaa-a650-2ca8b394d09e:1:245
+[    9590ms] [LOG] screenshot delta: -362457408s @ https://web-static.archive.org/_static/js/bundle-playback.js?v=Li6h_J3j:1

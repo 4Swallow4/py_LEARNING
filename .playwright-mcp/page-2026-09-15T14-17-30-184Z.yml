@@ -1,0 +1,393 @@
+- generic [active] [ref=f7e1]:
+  - link "Skip to content" [ref=f7e3] [cursor=pointer]:
+    - /url: "#wp--skip-link--target"
+  - generic [ref=f7e4]:
+    - banner [ref=f7e5]:
+      - generic [ref=f7e7]:
+        - link [ref=f7e10] [cursor=pointer]:
+          - /url: https://web.archive.org/web/20260629184914/https://www.trts.com/
+          - img "Tortoise" [ref=f7e11]
+        - navigation "Header Navigation"
+    - main [ref=f7e16]:
+      - generic [ref=f7e17]:
+        - heading [level=2] [ref=f7e19]:
+          - text: TORTOISE announce new album
+          - emphasis [ref=f7e20]: TOUCH
+        - paragraph [ref=f7e21]: Out October 24, 2025 on LP / CD / Digital Download. Plus ongoing tour dates in 2026.
+        - figure [ref=f7e22]:
+          - link [ref=f7e23] [cursor=pointer]:
+            - /url: https://web.archive.org/web/20260629184914/https://tortoise.lnk.to/Touch
+        - paragraph [ref=f7e24]:
+          - strong [ref=f7e25]: Tortoise
+          - text: announce
+          - strong [ref=f7e26]:
+            - emphasis [ref=f7e27]: Touch
+          - text: ", the first new album from the groundbreaking group since 2016. This new record from the post-everything icons comes via"
+          - strong [ref=f7e28]: International Anthem
+          - text: and
+          - strong [ref=f7e29]: Nonesuch Records
+          - text: on LP, CD, and digital download on
+          - strong [ref=f7e30]: October 24, 2025
+          - text: ", and on streaming services on November 11, 2025. Lead single “"
+          - strong [ref=f7e31]: Layered Presence
+          - text: ” — which also comes via
+          - link "video" [ref=f7e32] [cursor=pointer]:
+            - /url: https://web.archive.org/web/20260629184914/https://intlanthem.us9.list-manage.com/track/click?u=bdf63ba201aac3a40783dd64e&id=763ac0de25&e=902961715e
+          - text: filmed and directed by
+          - strong [ref=f7e33]: Mikel Patrick Avery
+          - text: — is out on all DSPs now.
+        - paragraph [ref=f7e34]:
+          - strong [ref=f7e35]:
+            - link [ref=f7e36] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://intlanthem.us9.list-manage.com/track/click?u=bdf63ba201aac3a40783dd64e&id=d3cb389bc2&e=902961715e
+              - text: Watch the video, listen to “Layered Presence” and order
+              - emphasis [ref=f7e37]: Touch
+              - text: here
+            - text: .
+        - separator [ref=f7e39]
+        - figure [ref=f7e40]:
+          - link [ref=f7e41] [cursor=pointer]:
+            - /url: https://web.archive.org/web/20260629184914/https://intlanthem.us9.list-manage.com/track/click?u=bdf63ba201aac3a40783dd64e&id=50164cb3a3&e=902961715e
+        - paragraph [ref=f7e42]:
+          - text: With
+          - emphasis [ref=f7e43]: Touch
+          - text: ", the Tortoise bandmembers —"
+          - strong [ref=f7e44]: Dan Bitney
+          - text: ","
+          - strong [ref=f7e45]: John Herndon
+          - text: ","
+          - strong [ref=f7e46]: Douglas McCombs
+          - text: ","
+          - strong [ref=f7e47]: John McEntire
+          - text: ", and"
+          - strong [ref=f7e48]: Jeff Parker
+          - text: — harness their collectivist songwriting approach, a slightly anarchistic but resolutely egalitarian process where ideas triumph over ego towards an abstracted muscularity. While there are still excursions into the dusky, elegantly gnarled jazz ambience that flourished on landmark works like
+          - emphasis [ref=f7e49]: Millions Now Living Will Never Die
+          - text: and
+          - emphasis [ref=f7e50]: TNT
+          - text: ","
+          - emphasis [ref=f7e51]: Touch
+          - text: is perhaps most remarkable for Tortoise’s unapologetic embrace of grand gesture. Aerodynamically re-engineered Krautrock, hand-cranked techno rave-ups, and pointillist spaghetti western fanfares are all imbued with Tortoise’s now-signature internal logic — equally alluring and confounding, a puzzle to be savored rather than solved.
+        - paragraph [ref=f7e52]: "The stylistic diversity is also a reflection of the band’s current operating circumstances: With two members now in Los Angeles, another in Portland, and just two remaining in the band’s Chicago hometown, their creative process has shifted dramatically from when they lived together in a loft space in the late 1990s, honing their sound over endless hours of collective experimentation."
+        - paragraph [ref=f7e53]:
+          - text: Recorded between the three cities — Los Angeles, Portland, and Chicago —
+          - emphasis [ref=f7e54]: Touch
+          - text: is the result of an intentional effort by these five musicians to reconnect, recenter, and reinvigorate their sound for what is perhaps the group’s most diverse release to date.
+        - paragraph [ref=f7e55]:
+          - strong [ref=f7e56]:
+            - text: Order
+            - emphasis [ref=f7e57]: Touch
+            - link "here" [ref=f7e58] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://intlanthem.us9.list-manage.com/track/click?u=bdf63ba201aac3a40783dd64e&id=12bde1dff7&e=902961715e
+            - text: .
+        - separator [ref=f7e60]
+        - heading "Upcoming Shows" [level=2] [ref=f7e61]
+        - paragraph [ref=f7e62]:
+          - text: A series of special shows was planned through the end of the 2025, including
+          - strong [ref=f7e63]: The Broad Museum
+          - text: in Los Angeles, a three-night weekend stand at NYC’s
+          - strong [ref=f7e64]: Bowery Ballroom
+          - text: ", two shows at the"
+          - strong [ref=f7e65]: Barbican
+          - text: for EFG London Jazz Festival, and a landmark show at
+          - strong [ref=f7e66]: The Auditorium in Chicago
+          - text: ", where"
+          - strong [ref=f7e67]: Tortoise played with the Chicago Philharmonic
+          - text: for the first time. The band will embark on European tours in early 2026, with more dates worldwide to be announced.
+        - list [ref=f7e68]:
+          - listitem [ref=f7e69]:
+            - strong [ref=f7e70]: Jun 25, 2026 — Brooklyn, NY
+            - text: — Ruins at Knockdown Center —
+            - link "Get Tickets" [ref=f7e71] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://dice.fm/partner/tickets/event/eoyp8y-tortoise-25th-jun-ruins-at-knockdown-center-new-york-tickets
+          - listitem [ref=f7e72]:
+            - strong [ref=f7e73]: Jun 26, 2026 — King of Prussia, PA
+            - text: — Upper Merion Township Building Park —
+            - link "Get Tickets" [ref=f7e74] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://www.tixr.com/groups/concertsunderthestars/events/tortoise-178137
+          - listitem [ref=f7e75]:
+            - strong [ref=f7e76]: Jun 27, 2026 — Palenville, NY
+            - text: — Griffin House Lawn —
+            - link "Get Tickets" [ref=f7e77] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://dice.fm/event/dkqxne-follow-the-arrow-music-festival-2026-27th-jun-griffin-house-lawn-palenville-tickets?pid=530cb286&_branch_match_id=1344016820781652468&utm_medium=partners_api&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c80NEgyMjcyMU0zN7EvyEyxNTU2SE4ysjBTqytKTUstKsrMS49PKsovL04tsnXOKMrPTQUA0w0MH0gAAAA%3D
+          - listitem [ref=f7e78]:
+            - strong [ref=f7e79]: Jun 28, 2026 —
+            - strong [ref=f7e80]: Washington, D.C.
+            - text: — 9:30 Club —
+            - link "Get Tickets" [ref=f7e81] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://www.ticketmaster.com/tortoise-washington-district-of-columbia-06-28-2026/event/15006473B902AEC2
+          - listitem [ref=f7e82]:
+            - strong [ref=f7e83]: Jun 30, 2026 — Cambridge, MA
+            - text: — The Sinclair —
+            - link "Get Tickets" [ref=f7e84] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://www.sinclaircambridge.com/
+          - listitem [ref=f7e85]:
+            - strong [ref=f7e86]: Jul 1, 2026 — Burlington, VT
+            - text: — Higher Ground —
+            - link "Get Tickets" [ref=f7e87] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://highergroundmusic.com/events/tortoise/
+          - listitem [ref=f7e88]:
+            - strong [ref=f7e89]: Jul 2, 2026 — Montreal, CA
+            - text: — Montreal Jazz at Theatre Maisonneuve —
+            - link "Get Tickets" [ref=f7e90] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://montrealjazzfest.com/en
+          - listitem [ref=f7e91]:
+            - strong [ref=f7e92]: Jul 3, 2026 — Toronto, CA
+            - text: — The Concert Hall —
+            - link "Get Tickets" [ref=f7e93] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://www.ticketweb.ca/event/tortoise-the-concert-hall-tickets/14799623
+          - listitem [ref=f7e94]:
+            - strong [ref=f7e95]: Jul 30, 2026 — Los Angeles, CA
+            - text: — Skirball Cultural Center —
+            - link "Get Tickets" [ref=f7e96] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://www.skirball.org/tickets
+          - listitem [ref=f7e97]:
+            - strong [ref=f7e98]: Jul 31, 2026 — Pioneertown, CA
+            - text: — Pappy & Harriet’s —
+            - link "Get Tickets" [ref=f7e99] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://wl.eventim.us/event/tortoise/692492? afflky=pappyandharriets
+          - listitem [ref=f7e100]:
+            - strong [ref=f7e101]: Aug 1, 2026 — Solana Beach, CA
+            - text: — Belly Up Tavern —
+            - link "Get Tickets" [ref=f7e102] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://www.ticketweb.com/event/tortoise-belly-up- tickets/14936683?pl=bellyup
+          - listitem [ref=f7e103]:
+            - strong [ref=f7e104]: Aug 20, 2026 — Seoul, KR
+            - text: — Musina Garage —
+            - link "Get Tickets" [ref=f7e105] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://www.gimbabrecords2.com/category/Ticket/72/
+          - listitem [ref=f7e106]:
+            - strong [ref=f7e107]: Aug 23, 2026 — Taipei, TW
+            - text: — The Wall —
+            - link "Get Tickets" [ref=f7e108] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://go.fansi.me/
+          - listitem [ref=f7e109]:
+            - strong [ref=f7e110]: Aug 25, 2026 — Shenzhen, CN
+            - text: — B10 Live —
+            - link "Get Tickets" [ref=f7e111] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://wap.showstart.com/pages/activity/detail/detail?activityId=296324
+          - listitem [ref=f7e112]:
+            - strong [ref=f7e113]: Aug 27, 2026 — Shanghai, CN
+            - text: — Star@ Culture Centre Dream Hall —
+            - link "Get Tickets" [ref=f7e114] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://wap.showstart.com/pages/activity/detail/detail?activityId=296323
+          - listitem [ref=f7e115]:
+            - strong [ref=f7e116]: Aug 31, 2026 — Singapore, SG
+            - text: — Esplanade Annexe Studio —
+            - link "Get Tickets" [ref=f7e117] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/http://www.esplanade.com/mosaic
+          - listitem [ref=f7e118]:
+            - strong [ref=f7e119]: Sep 2, 2026 — Kuala Lumpur, MY
+            - text: — Stage 1, PJPAC —
+            - link "Get Tickets" [ref=f7e120] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://onetix.com.my/
+          - listitem [ref=f7e121]:
+            - strong [ref=f7e122]: Sep 4, 2026 — Bangkok, TH
+            - text: — Buatudthong Art Space —
+            - link "Get Tickets" [ref=f7e123] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/http://www.ticketmelon.com/
+          - listitem [ref=f7e124]:
+            - strong [ref=f7e125]: Oct 31, 2026 — Birmingham, UK
+            - text: — The Crossing —
+            - link "Get Tickets" [ref=f7e126] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://supersonicfestival.com/product-category/supersonic/
+          - listitem [ref=f7e127]:
+            - strong [ref=f7e128]: Nov 1, 2026 — Glasgow, UK
+            - text: — Queen Margaret Union —
+            - link "Get Tickets" [ref=f7e129] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://www.seetickets.com/event/tortoise/qmu/3619958
+          - listitem [ref=f7e130]:
+            - strong [ref=f7e131]: Nov 3, 2026 —
+            - strong [ref=f7e132]: Dublin, IE
+            - text: — Button Factory —
+            - link "Get Tickets" [ref=f7e133] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://foggynotions.ie/concerts/tortoise-button-factory-dublin-2026/
+          - listitem [ref=f7e134]:
+            - strong [ref=f7e135]: Nov 4, 2026
+            - strong [ref=f7e136]: —
+            - strong [ref=f7e137]: London, UK
+            - text: — Pitchfork Festival @ Hackney Church —
+            - link "Get Tickets" [ref=f7e138] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://dice.fm/partner/tickets/event/9276bn-tortoise-bill-orcutt-dagmar-zuniga-4th-nov-hackney-church-london-tickets?dice_id=9130612&dice_channel=web&dice_tags=organic&dice_campaign=Pitchfork+Festival+London&dice_feature=mio_marketing&_branch_match_id=1344016820781652468&utm_source=web&utm_campaign=Pitchfork+Festival+London&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1S9JNLc0MExMNE9KMbCvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQB%2B0vIfOwAAAA%3D%3D
+          - listitem [ref=f7e139]:
+            - strong [ref=f7e140]: Nov 5, 2026
+            - strong [ref=f7e141]: —
+            - strong [ref=f7e142]: Utrecht, NL
+            - text: — Le Guess Who —
+            - link "Get Tickets" [ref=f7e143] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://leguesswho.com/tickets
+          - listitem [ref=f7e144]:
+            - strong [ref=f7e145]: Nov 6, 2026
+            - strong [ref=f7e146]: —
+            - strong [ref=f7e147]: Barcelona, ES
+            - text: — MIRA Festival —
+            - link "Get Tickets" [ref=f7e148] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://mirafestival.com/tickets/
+          - listitem [ref=f7e149]:
+            - strong [ref=f7e150]: Nov 7, 2026 — Valencia, ES
+            - text: — Sala Moon Valencia —
+            - link "Get Tickets" [ref=f7e151] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://feverup.com/m/523700?utm_source=affiliate&utm_medium=impact&utm_campaign=523700&utm_content=379560_Bandsintown%20concerts&irclickid=2G2T1m3e-xyKRTqyvu0LI0MAUkuwPaw9T1nGRI0&irgwc=1&afsrc=1
+          - listitem [ref=f7e152]:
+            - strong [ref=f7e153]: Nov 8, 2026 — Madrid, ES
+            - text: — Sala But —
+            - link "Get Tickets" [ref=f7e154] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://feverup.com/m/523699?utm_source=affiliate&utm_medium=impact&utm_campaign=&utm_content=379560_Bandsintown%20concerts&irclickid=2G2T1m3e-xyKRTqyvu0LI0MAUkuwPa1xT1nGRI0&irgwc=1&afsrc=1
+          - listitem [ref=f7e155]:
+            - strong [ref=f7e156]: Nov 9, 2026 — Reutlingen, DE
+            - text: — Franz.K —
+            - link "Get Tickets" [ref=f7e157] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://www.eventim.de/noapp/event/21390759/?affiliate=BNO&affiliate=BNO&utm_source=awin&utm_medium=affiliate&utm_campaign=97249&awc=11388_1774561874_ce208219327333dc849602ddc78a009b
+          - listitem [ref=f7e158]:
+            - strong [ref=f7e159]: Nov 10, 2026 — Vicenza, IT
+            - text: — Teatro comunale Città di Vicenza —
+            - link "Get Tickets" [ref=f7e160] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://www.tcvi.it/it/eventi/stagione/
+          - listitem [ref=f7e161]:
+            - strong [ref=f7e162]: Nov 12, 2026 — Aarhus, DK
+            - text: — VoxHall —
+            - link "Get Tickets" [ref=f7e163] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://voxhall.dk/koncerter/tortoise/
+          - listitem [ref=f7e164]:
+            - strong [ref=f7e165]: Nov 13, 2026 — Weissenhäuser Strand, DE
+            - text: — ROLLING STONE BEACH —
+            - link "Get Tickets" [ref=f7e166] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://rollingstone-beach.de/de/tickets/
+          - listitem [ref=f7e167]:
+            - strong [ref=f7e168]: Nov 14, 2026 — Groningen, NL
+            - text: — Rockit —
+            - link "Get Tickets" [ref=f7e169] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://tickets.spotgroningen.nl/mtTicket/performance?id=109057
+          - listitem [ref=f7e170]:
+            - strong [ref=f7e171]: Nov 15, 2026 —
+            - strong [ref=f7e172]: Antwerp, BE
+            - text: — Arenberg —
+            - link "Get Tickets" [ref=f7e173] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://apps.ticketmatic.com/widgets/kl/flow/arenberg?event=322167853726&l=nl#!/addtickets
+        - separator [ref=f7e174]
+        - separator [ref=f7e176]
+        - figure [ref=f7e177]
+        - heading "Deluxe Vinyl Package" [level=2] [ref=f7e178]
+        - paragraph [ref=f7e179]:
+          - strong [ref=f7e180]:
+            - emphasis [ref=f7e181]: Touch
+          - text: comes on a 140 gram vinyl LP, inside a heavyweight reverse-board jacket with IARC obi strip and poly-lined printed inner-sleeve. Lacquers cut by Daniel K at SST. North American stock pressed at New Orleans Record Press, all other international stock pressed at Pallas in Germany.
+        - paragraph [ref=f7e182]: Limited Edition *Axial Seamount* Color Vinyl – $30Classic Black Vinyl – $27
+        - paragraph [ref=f7e183]: Also available onCompact Disc – $15
+        - paragraph [ref=f7e184]:
+          - strong [ref=f7e185]:
+            - link "Purchase via Bandcamp" [ref=f7e186] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://intlanthem.us9.list-manage.com/track/click?u=bdf63ba201aac3a40783dd64e&id=42f00f8fbe&e=902961715e
+        - paragraph [ref=f7e187]:
+          - text: For a list of record stores carrying the album on October 24th, 2024, see
+          - link "here." [ref=f7e188] [cursor=pointer]:
+            - /url: https://web.archive.org/web/20260629184914/https://www.intlanthem.com/releases4/tortoise-touch#shops
+        - separator [ref=f7e190]
+        - heading "Official Merch Now Available" [level=2] [ref=f7e191]
+        - figure [ref=f7e192]:
+          - link [ref=f7e193] [cursor=pointer]:
+            - /url: https://web.archive.org/web/20260629184914/https://shirtkiller.com/collections/tortoise
+        - paragraph [ref=f7e194]: Visit the new Tortoise official online store for merch. All items shipping worldwide from the US and EU.
+        - heading [level=4] [ref=f7e195]:
+          - text: Visit
+          - link "shirtkiller.com/tortoise" [ref=f7e196] [cursor=pointer]:
+            - /url: https://web.archive.org/web/20260629184914/https://shirtkiller.com/tortoise
+        - separator [ref=f7e198]
+        - heading [level=1] [ref=f7e199]:
+          - mark [ref=f7e200]:
+            - strong [ref=f7e201]: Tortoise
+            - text: “Oganesson”
+        - figure [ref=f7e202]
+        - paragraph [ref=f7e203]:
+          - text: On March 27, 2025,
+          - strong [ref=f7e204]: Tortoise
+          - text: release digital single
+          - strong [ref=f7e205]:
+            - link "“Oganesson”" [ref=f7e206] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://web.archive.org/web/20250626004632/https://tortoise.lnk.to/oganesson
+          - text: – the band’s first new music since 2016 – in anticipation of a larger body of work to be released soon via
+          - strong [ref=f7e207]: International Anthem
+          - text: "&"
+          - strong [ref=f7e208]: Nonesuch Records
+          - text: (details TBA).
+        - link "Listen/Purchase" [ref=f7e211] [cursor=pointer]:
+          - /url: https://web.archive.org/web/20260629184914/https://web.archive.org/web/20250626004632/https://tortoise.lnk.to/oganesson
+        - separator [ref=f7e213]
+        - figure [ref=f7e214]:
+          - iframe [ref=f7e216]
+        - heading "“Organesson” Animation/Video by Rob Shaw" [level=3] [ref=f7e217]
+        - separator [ref=f7e218]
+        - figure "Photo by Todd Weaver" [ref=f7e219]
+        - heading "About" [level=2] [ref=f7e221]
+        - paragraph [ref=f7e222]:
+          - text: Tortoise is widely considered one of the most influential music groups of the last 40 years, with a wide-reaching impact on the contemporary music scene.
+          - emphasis [ref=f7e223]: Pitchfork
+          - text: "says: “Imagine a graphic showing all the bands the five members of Tortoise were in before they came together and then all the bands they went on to play with after. At the top of the funnel you have groups ranging from dreamy psych-rock to earthy post-punk crunch, including Eleventh Dream Day, Bastro, Slint, and the Poster Children; on the ‘post-Tortoise’ end are groups focusing on electro-jazz and twangy instrumental rock like Isotope 217, Chicago Underground, and Brokeback. In this graphic, Tortoise is the choke point, the one project that has elements of all these sounds but is never defined by nor committed to any of them. Instead, Tortoise floats free, a planchette moving over a Ouija board guided by 10 sets of fingers, where everyone watches the arrow float in one direction but no one is quite sure how it gets there or who is doing the pushing.”"
+        - paragraph [ref=f7e224]:
+          - text: The band, which originally formed in Chicago, comprises
+          - strong [ref=f7e225]: Jeff Parker
+          - text: ","
+          - strong [ref=f7e226]: Dan Bitney
+          - text: ","
+          - strong [ref=f7e227]: Douglas McCombs
+          - text: ","
+          - strong [ref=f7e228]: John Herndon
+          - text: ", and"
+          - strong [ref=f7e229]: John McEntire
+          - text: .
+        - paragraph [ref=f7e230]:
+          - text: Initially hailed as pace-setters of the then-emerging, so-called “post-rock” sound, the
+          - emphasis [ref=f7e231]: Chicago Tribune
+          - text: called Tortoise’s sound “mood music that refuses to be shoved into the background, as inviting as it is challenging.”
+          - emphasis [ref=f7e232]
+          - text: Releasing just seven albums since 1990 — including classics like 1996’s
+          - emphasis [ref=f7e233]: Millions Now Living Will Never Die,
+          - text: 1998’s
+          - emphasis [ref=f7e234]: TNT,
+          - text: and 2001’s
+          - emphasis [ref=f7e235]: Standards
+          - text: —Tortoise has steadily and intuitively evolved across its life, creating genreless music that is as timeless as it is ahead of the curve.
+        - paragraph [ref=f7e236]:
+          - text: The band’s legacy goes beyond its recorded output, as well. Per the
+          - emphasis [ref=f7e237]: New York Time
+          - text: "s: “While Tortoise’s albums have experimented with the editing and overdubbing possibilities of the studio, the band thrives performing in real time.”"
+          - emphasis [ref=f7e238]: Rolling Stone
+          - text: deems Tortoise “a live marvel,” while
+          - emphasis [ref=f7e239]: Pitchfork
+          - text: further
+          - emphasis [ref=f7e240]
+          - text: says the band’s performances reveal that “at heart, they’re a supremely fun band, wide open to all sorts of sonic possibilities.”
+        - separator [ref=f7e242]
+        - heading "Contact" [level=1] [ref=f7e243]
+        - heading [level=4] [ref=f7e244]:
+          - strong [ref=f7e245]: "Press & Label Inquiries:"
+        - paragraph [ref=f7e246]:
+          - link "information@intlanthem.com" [ref=f7e247] [cursor=pointer]:
+            - /url: https://web.archive.org/web/20260629184914/https://web.archive.org/web/20250626004632/mailto:information@intlanthem.com
+        - heading [level=4] [ref=f7e248]:
+          - strong [ref=f7e249]: "Booking Inquiries:"
+        - paragraph [ref=f7e250]:
+          - strong [ref=f7e251]: US
+          - text: Jim Romeo
+          - link "jim@groundcontroltouring.com" [ref=f7e252] [cursor=pointer]:
+            - /url: https://web.archive.org/web/20260629184914/https://web.archive.org/web/20250626004632/mailto:jim@groundcontroltouring.com
+          - strong [ref=f7e253]: Europe
+          - text: Berthold Seliger
+          - link "bs@bseliger.de" [ref=f7e254] [cursor=pointer]:
+            - /url: https://web.archive.org/web/20260629184914/https://web.archive.org/web/20250626004632/mailto:bs@bseliger.de
+        - paragraph
+    - contentinfo [ref=f7e256]:
+      - generic [ref=f7e258]:
+        - list [ref=f7e259]:
+          - listitem [ref=f7e260]:
+            - link "Instagram" [ref=f7e261] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://www.instagram.com/trts/?hl=en
+          - listitem [ref=f7e265]:
+            - link "Facebook" [ref=f7e266] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://www.facebook.com/TRTSband/
+          - listitem [ref=f7e270]:
+            - link "Bandcamp" [ref=f7e271] [cursor=pointer]:
+              - /url: https://web.archive.org/web/20260629184914/https://web.archive.org/web/20250609162830/https://intlanthem.bandcamp.com/album/oganesson
+        - paragraph [ref=f7e275]:
+          - link "Tortoise" [ref=f7e276] [cursor=pointer]:
+            - /url: https://web.archive.org/web/20260629184914/https://www.trts.com/

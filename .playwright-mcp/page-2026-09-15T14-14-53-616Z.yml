@@ -1,0 +1,464 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - generic [ref=f1e4]:
+      - generic [ref=f1e5]:
+        - generic [ref=f1e6]:
+          - link "DuckDuckGo home" [ref=f1e7] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f1e8]: DuckDuckGo
+          - generic [ref=f1e15]:
+            - combobox "私密搜索" [ref=f1e17]: Tortoise band official website
+            - button "搜索" [ref=f1e19] [cursor=pointer]
+        - button "打开菜单" [ref=f1e23] [cursor=pointer]
+      - navigation [ref=f1e31]:
+        - list [ref=f1e32]:
+          - listitem [ref=f1e33]:
+            - link [ref=f1e34] [cursor=pointer]:
+              - /url: /?q=Tortoise+band+official+website&ia=web
+              - strong [ref=f1e35]: 全部
+          - listitem [ref=f1e38]:
+            - link [ref=f1e39] [cursor=pointer]:
+              - /url: /?q=Tortoise+band+official+website&ia=images&iax=images
+              - strong [ref=f1e40]: 图片
+          - listitem [ref=f1e41]:
+            - link [ref=f1e42] [cursor=pointer]:
+              - /url: /?q=Tortoise+band+official+website&ia=videos&iax=videos
+              - strong [ref=f1e43]: 视频
+          - listitem [ref=f1e44]:
+            - link [ref=f1e45] [cursor=pointer]:
+              - /url: /?q=Tortoise+band+official+website&ia=news&iar=news
+              - strong [ref=f1e46]: 新闻
+          - listitem [ref=f1e47]:
+            - button [ref=f1e48] [cursor=pointer]:
+              - strong [ref=f1e50]: 更多
+        - list [ref=f1e53]:
+          - listitem [ref=f1e54]:
+            - link "Search Assist" [ref=f1e56] [cursor=pointer]:
+              - /url: /?q=Tortoise+band+official+website&ia=web&assist=true
+          - listitem [ref=f1e63]:
+            - link "Duck.ai" [ref=f1e65] [cursor=pointer]:
+              - /url: /?q=Tortoise+band+official+website&ia=chat
+          - listitem [ref=f1e69]:
+            - button "搜索设置 ✀" [ref=f1e71] [cursor=pointer]:
+              - strong [ref=f1e72]:
+                - generic [ref=f1e75]: 搜索设置
+                - generic [ref=f1e76]: ✀
+    - generic [ref=f1e83]:
+      - navigation [ref=f1e85]:
+        - button [ref=f1e87] [cursor=pointer]:
+          - strong [ref=f1e94]: 私密
+        - generic [ref=f1e98]:
+          - switch "按已选地区筛选" [ref=f1e102]
+          - button "日本" [ref=f1e104] [cursor=pointer]
+        - button [ref=f1e109] [cursor=pointer]:
+          - strong [ref=f1e111]: 安全搜索： 适中
+        - button [ref=f1e115] [cursor=pointer]:
+          - strong [ref=f1e117]: 不限时间
+      - generic [ref=f1e120]:
+        - generic [ref=f1e121]:
+          - list [ref=f1e122]:
+            - listitem [ref=f1e123]:
+              - article [ref=f1e124] [cursor=pointer]:
+                - button [ref=f1e126]
+                - generic [ref=f1e131]:
+                  - link "将结果来源限定为 trts.com" [ref=f1e133]:
+                    - /url: /?q=Tortoise%20band%20official%20website+site:www.trts.com
+                  - generic [ref=f1e136]:
+                    - paragraph [ref=f1e137]: TORTOISE
+                    - link "https://www.trts.com" [ref=f1e138]:
+                      - /url: https://www.trts.com/
+                      - paragraph [ref=f1e140]:
+                        - generic [ref=f1e141]: https://www.trts.com
+                - heading [level=2] [ref=f1e143]:
+                  - link "Home - Tortoise" [ref=f1e144]:
+                    - /url: https://www.trts.com/
+                - generic [ref=f1e146]: On March 27, 2025, Tortoise release digital single "Oganesson" - the band's first new music since 2016 - in anticipation of a larger body of work to be released soon via International Anthem & Nonesuch Records (details TBA).
+            - listitem [ref=f1e151]:
+              - article [ref=f1e152] [cursor=pointer]:
+                - button [ref=f1e154]
+                - generic [ref=f1e159]:
+                  - link "将结果来源限定为 tortoise.bandcamp.com" [ref=f1e161]:
+                    - /url: /?q=Tortoise%20band%20official%20website+site:tortoise.bandcamp.com
+                  - generic [ref=f1e164]:
+                    - paragraph [ref=f1e165]: tortoise.bandcamp.com
+                    - link "https://tortoise.bandcamp.com › music" [ref=f1e166]:
+                      - /url: https://tortoise.bandcamp.com/music
+                      - paragraph [ref=f1e168]:
+                        - generic [ref=f1e169]: https://tortoise.bandcamp.com
+                        - generic [ref=f1e170]: › music
+                - heading [level=2] [ref=f1e172]:
+                  - link "Music - Tortoise" [ref=f1e173]:
+                    - /url: https://tortoise.bandcamp.com/music
+                - generic [ref=f1e175]: Simply put, Tortoise has spent nearly 25 years making music that defies description. While the Chicago-based instrumental quintet has nodded to dub, rock, jazz, electronica and minimalism throughout its revered and influential six-album discography, the resulting sounds have always been distinctly, even stubbornly, their own.
+            - listitem [ref=f1e180]:
+              - article [ref=f1e181] [cursor=pointer]:
+                - button [ref=f1e183]
+                - generic [ref=f1e188]:
+                  - link "将结果来源限定为 en.wikipedia.org" [ref=f1e190]:
+                    - /url: /?q=Tortoise%20band%20official%20website+site:en.wikipedia.org
+                  - generic [ref=f1e193]:
+                    - paragraph [ref=f1e194]: Wikipedia
+                    - link "https://en.wikipedia.org › wiki › Tortoise_(band)" [ref=f1e195]:
+                      - /url: https://en.wikipedia.org/wiki/Tortoise_(band)
+                      - paragraph [ref=f1e197]:
+                        - generic [ref=f1e198]: https://en.wikipedia.org
+                        - generic [ref=f1e199]: › wiki › Tortoise_(band)
+                - heading [level=2] [ref=f1e201]:
+                  - link "Tortoise (band) - Wikipedia" [ref=f1e202]:
+                    - /url: https://en.wikipedia.org/wiki/Tortoise_(band)
+                - generic [ref=f1e204]: Tortoise is an American post-rock band formed in Chicago, Illinois, in 1990. [1] The band incorporates krautrock, dub, minimal music, electronica and jazz into their music, and their eclectic style has left a great influence on the post-rock genre. Tortoise have been consistently credited, as part of the Chicago school of post-rock, for its rise in the 1990s.
+            - listitem [ref=f1e209]:
+              - article [ref=f1e210] [cursor=pointer]:
+                - button [ref=f1e212]
+                - generic [ref=f1e217]:
+                  - link "将结果来源限定为 facebook.com" [ref=f1e219]:
+                    - /url: /?q=Tortoise%20band%20official%20website+site:www.facebook.com
+                  - generic [ref=f1e222]:
+                    - paragraph [ref=f1e223]: Facebook
+                    - link "https://www.facebook.com › TRTSband" [ref=f1e224]:
+                      - /url: https://www.facebook.com/TRTSband/
+                      - paragraph [ref=f1e226]:
+                        - generic [ref=f1e227]: https://www.facebook.com
+                        - generic [ref=f1e228]: › TRTSband
+                - heading [level=2] [ref=f1e230]:
+                  - link "Tortoise - Facebook" [ref=f1e231]:
+                    - /url: https://www.facebook.com/TRTSband/
+                - generic [ref=f1e236]:
+                  - text: 2026年6月11日·
+                  - generic [ref=f1e237]: Tortoise's Dan Bitney stopped by for the Nonesuch Selects video series, in which artists visit the Nonesuch office, pick some of their favorite albums from the music library, and share a few words on their choices.
+            - listitem [ref=f1e238]:
+              - article [ref=f1e239] [cursor=pointer]:
+                - button [ref=f1e241]
+                - generic [ref=f1e246]:
+                  - link "将结果来源限定为 instagram.com" [ref=f1e248]:
+                    - /url: /?q=Tortoise%20band%20official%20website+site:www.instagram.com
+                  - generic [ref=f1e251]:
+                    - paragraph [ref=f1e252]: Instagram
+                    - link "https://www.instagram.com › trts" [ref=f1e253]:
+                      - /url: https://www.instagram.com/trts/
+                      - paragraph [ref=f1e255]:
+                        - generic [ref=f1e256]: https://www.instagram.com
+                        - generic [ref=f1e257]: › trts
+                - heading [level=2] [ref=f1e259]:
+                  - link "Tortoise (@trts) • Instagram photos and videos" [ref=f1e260]:
+                    - /url: https://www.instagram.com/trts/
+                - generic [ref=f1e262]: "37K Followers, 656 Following, 641 Posts - Tortoise (@trts) on Instagram: \"Musical Group with @danbitney.music @agrapedope @theerealmccombs @_john_mcentire\""
+            - listitem [ref=f1e267]:
+              - article [ref=f1e268] [cursor=pointer]:
+                - button [ref=f1e270]
+                - generic [ref=f1e275]:
+                  - link "将结果来源限定为 nonesuch.com" [ref=f1e277]:
+                    - /url: /?q=Tortoise%20band%20official%20website+site:www.nonesuch.com
+                  - generic [ref=f1e280]:
+                    - paragraph [ref=f1e281]: Nonesuch Records
+                    - link "https://www.nonesuch.com › journal › tortoises-new-album-touch-now-all-streaming-platforms-2025-11-11" [ref=f1e282]:
+                      - /url: https://www.nonesuch.com/journal/tortoises-new-album-touch-now-all-streaming-platforms-2025-11-11
+                      - paragraph [ref=f1e284]:
+                        - generic [ref=f1e285]: https://www.nonesuch.com
+                        - generic [ref=f1e286]: › journal › tortoises-new-album-touch-now-all-streaming-platforms-2025-11-11
+                - heading [level=2] [ref=f1e288]:
+                  - link "Tortoise's New Album, 'Touch,' Now on All Streaming Platforms ..." [ref=f1e289]:
+                    - /url: https://www.nonesuch.com/journal/tortoises-new-album-touch-now-all-streaming-platforms-2025-11-11
+                - generic [ref=f1e294]:
+                  - text: 2025年11月11日·
+                  - generic [ref=f1e295]: Touch, Tortoise's first new album since 2016, is now on all streaming platforms, following its recent vinyl and CD release. The band has also shared an animated video, by Selina Trepp, for the album track "Rated OG." Tortoise will perform with the Chicago Philharmonic at The Auditorium in Chicago tonight and has a three-night stand at NYC's Bowery Ballroom this weekend.
+            - listitem [ref=f1e296]:
+              - article [ref=f1e297] [cursor=pointer]:
+                - button [ref=f1e299]
+                - generic [ref=f1e304]:
+                  - link "将结果来源限定为 nonesuch.com" [ref=f1e306]:
+                    - /url: /?q=Tortoise%20band%20official%20website+site:www.nonesuch.com
+                  - generic [ref=f1e309]:
+                    - paragraph [ref=f1e310]: Nonesuch Records
+                    - link "https://www.nonesuch.com › journal › tortoises-new-album-touch-out-now-2025-10-24" [ref=f1e311]:
+                      - /url: https://www.nonesuch.com/journal/tortoises-new-album-touch-out-now-2025-10-24
+                      - paragraph [ref=f1e313]:
+                        - generic [ref=f1e314]: https://www.nonesuch.com
+                        - generic [ref=f1e315]: › journal › tortoises-new-album-touch-out-now-2025-10-24
+                - heading [level=2] [ref=f1e317]:
+                  - link "Tortoise's New Album, 'Touch,' Out Now | Nonesuch Records" [ref=f1e318]:
+                    - /url: https://www.nonesuch.com/journal/tortoises-new-album-touch-out-now-2025-10-24
+                - generic [ref=f1e323]:
+                  - text: 2025年10月24日·
+                  - generic [ref=f1e324]: The official site of Nonesuch Records Tortoise, the iconic ensemble that "reset the stage for what might fit within indie rock" (Mojo), releases Touch, the first new album from the groundbreaking group since 2016, today via International Anthem and Nonesuch Records on LP, CD, and digital download, with streaming to follow November 11. You can get it here. The band has also shared a video for ...
+            - listitem [ref=f1e325]:
+              - article [ref=f1e326] [cursor=pointer]:
+                - button [ref=f1e328]
+                - generic [ref=f1e333]:
+                  - link "将结果来源限定为 tortoise.bandcamp.com" [ref=f1e335]:
+                    - /url: /?q=Tortoise%20band%20official%20website+site:tortoise.bandcamp.com
+                  - generic [ref=f1e338]:
+                    - paragraph [ref=f1e339]: tortoise.bandcamp.com
+                    - link "https://tortoise.bandcamp.com" [ref=f1e340]:
+                      - /url: https://tortoise.bandcamp.com/
+                      - paragraph [ref=f1e342]:
+                        - generic [ref=f1e343]: https://tortoise.bandcamp.com
+                - heading [level=2] [ref=f1e345]:
+                  - link "VMAK<KOMBZ<<<DUGLAS<<6NDR7<<< | Douglas Andrew McCombs | Tortoise" [ref=f1e346]:
+                    - /url: https://tortoise.bandcamp.com/
+                - generic [ref=f1e348]: VMAK<KOMBZ<<<DUGLAS<<<6NDR7<<< is the first ever solo album by acclaimed bassist Douglas Andrew McCombs under his own name. McCombs is one of the most highly regarded bassists/guitarists working today, known for his pioneering band Tortoise, his bass playing in Chicago's Eleventh Dream Day, and his innovative instrumental group Brokeback.
+            - listitem [ref=f1e353]:
+              - article [ref=f1e354] [cursor=pointer]:
+                - button [ref=f1e356]
+                - generic [ref=f1e361]:
+                  - link "将结果来源限定为 music.youtube.com" [ref=f1e363]:
+                    - /url: /?q=Tortoise%20band%20official%20website+site:music.youtube.com
+                  - generic [ref=f1e366]:
+                    - paragraph [ref=f1e367]: Youtube Music
+                    - link "https://music.youtube.com › channel › UC4p81SffxAyf_EqpPU1zBaA" [ref=f1e368]:
+                      - /url: https://music.youtube.com/channel/UC4p81SffxAyf_EqpPU1zBaA
+                      - paragraph [ref=f1e370]:
+                        - generic [ref=f1e371]: https://music.youtube.com
+                        - generic [ref=f1e372]: › channel › UC4p81SffxAyf_EqpPU1zBaA
+                - heading [level=2] [ref=f1e374]:
+                  - link "Tortoise - YouTube Music" [ref=f1e375]:
+                    - /url: https://music.youtube.com/channel/UC4p81SffxAyf_EqpPU1zBaA
+                - generic [ref=f1e377]: Listen to music from Tortoise on YouTube Music - a dedicated music app with official songs, music videos, remixes, covers, and more.
+            - listitem [ref=f1e382]:
+              - article [ref=f1e383] [cursor=pointer]:
+                - button [ref=f1e385]
+                - generic [ref=f1e390]:
+                  - link "将结果来源限定为 tortoisetour.com" [ref=f1e392]:
+                    - /url: /?q=Tortoise%20band%20official%20website+site:tortoisetour.com
+                  - generic [ref=f1e395]:
+                    - paragraph [ref=f1e396]: tortoisetour.com
+                    - link "https://tortoisetour.com › lander" [ref=f1e397]:
+                      - /url: https://tortoisetour.com/lander
+                      - paragraph [ref=f1e399]:
+                        - generic [ref=f1e400]: https://tortoisetour.com
+                        - generic [ref=f1e401]: › lander
+                - heading [level=2] [ref=f1e403]:
+                  - link "tortoisetour.com" [ref=f1e404]:
+                    - /url: https://tortoisetour.com/lander
+                - generic [ref=f1e406]: tortoisetour.com
+            - listitem [ref=f1e410]:
+              - article [ref=f1e411] [cursor=pointer]:
+                - button [ref=f1e413]
+                - link "アマゾンジャパン合同会社 https://www.amazon.co.jp › Amazon › お得に買い物" [ref=f1e420]:
+                  - /url: https://duckduckgo.com/y.js?ad_domain=amazon.co.jp&ad_provider=bingv7aa&ad_type=txad&click_metadata=xwRIHoX8boOBVp77Caf5BoHaU4Ja3cN9vVrHVsAv96xuHSNdjQfGv8gAwCKUePdK%2DQlyft6dnUJ_g3XjG5wJDP63DYut8Ivq7WQCN%2DBHN_9CTYdkqcGY4OfhjAt2MOc54PndBkY6ibMX6VcrU8ZBtQ.xY3OiygqNMctl9H%2DZ%2DY__w&eddgt=65C7eFfO8G_E0Aakrxjnpw%3D%3D&rut=6a3eff042c255efa141b1a877b161176762086d5cf629f0fc0aac21d7194b45c&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8h8%2DUJKoPirnzGygyi%2DUHGjVUCUwrKaLMsOcYQ8PluNsJEwf7bQiKJIELYPriJsBWqdjwtiliUqne5v8MYLuF7kzkHPoYv5Shx6imEtsjSsZFTrPN21HepqmqrC1K2QH5UM2lKeq4YHFrXVBK4oSSunKkoealJh4B9YCAlEk33XsetggDob51I1PcR364xE7f9vGsRwWgBSdBj_h2DguwYexTZys%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvLmpwJTJmcyUyZiUzZmllJTNkVVRGOCUyNmtleXdvcmRzJTNkYmFuZCUyYnRvcnRvaXNlJTI2aW5kZXglM2RhcHMlMjZqcC1hZC1hcCUzZDAlMjZ0YWclM2RqcGRlc2tzdGFuZHNlLTIyJTI2cmVmJTNkcGRfc2xfNzd6bnN0ZTlvMF9iJTI2YWRncnBpZCUzZDEzMjA1MTYxMjI1ODIxOTklMjZodmFkaWQlM2Q4MjUzMjUwMDUwMzEyMSUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJiJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDE0MDAzMSUyNmh2dGFyZ2lkJTNka3dkLTgyNTMzNjk0MzAyMDQzJTNhbG9jLTk2JTI2aHlkYWRjciUzZDI3NDg4XzE0ODE1MjQ0JTI2bWNpZCUzZGFhM2I5MDdkZDEyYTMyYzRiMGVlZGI5NDZkODU2OTMzJTI2bGFuZ3VhZ2UlM2RqYV9KUCUyNm1zY2xraWQlM2QwYjY5YTE2MjlhYzcxZjhkYjBkNGNiY2JjODFjMGFkYw%26rlid%3D0b69a1629ac71f8db0d4cbcbc81c0adc&vqd=4-53670553891926448245308017139825010104&iurl=%7B1%7DIG%3D930D6B4FC5B14B8895E386617D4B7267%26CID%3D09694E89E6926E743AA9595CE7606F02%26ID%3DDevEx%2C5039.1
+                  - generic [ref=f1e424]:
+                    - paragraph [ref=f1e425]: アマゾンジャパン合同会社
+                    - paragraph [ref=f1e426]:
+                      - generic [ref=f1e427]: https://www.amazon.co.jp
+                      - generic [ref=f1e428]: › Amazon › お得に買い物
+                - heading [level=2] [ref=f1e430]:
+                  - link "Band tortoise | アマゾン公式サイト | Amazon.co.jp" [ref=f1e431]:
+                    - /url: https://duckduckgo.com/y.js?ad_domain=amazon.co.jp&ad_provider=bingv7aa&ad_type=txad&click_metadata=xwRIHoX8boOBVp77Caf5BoHaU4Ja3cN9vVrHVsAv96xuHSNdjQfGv8gAwCKUePdK%2DQlyft6dnUJ_g3XjG5wJDP63DYut8Ivq7WQCN%2DBHN_9CTYdkqcGY4OfhjAt2MOc54PndBkY6ibMX6VcrU8ZBtQ.xY3OiygqNMctl9H%2DZ%2DY__w&eddgt=65C7eFfO8G_E0Aakrxjnpw%3D%3D&rut=6a3eff042c255efa141b1a877b161176762086d5cf629f0fc0aac21d7194b45c&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8h8%2DUJKoPirnzGygyi%2DUHGjVUCUwrKaLMsOcYQ8PluNsJEwf7bQiKJIELYPriJsBWqdjwtiliUqne5v8MYLuF7kzkHPoYv5Shx6imEtsjSsZFTrPN21HepqmqrC1K2QH5UM2lKeq4YHFrXVBK4oSSunKkoealJh4B9YCAlEk33XsetggDob51I1PcR364xE7f9vGsRwWgBSdBj_h2DguwYexTZys%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvLmpwJTJmcyUyZiUzZmllJTNkVVRGOCUyNmtleXdvcmRzJTNkYmFuZCUyYnRvcnRvaXNlJTI2aW5kZXglM2RhcHMlMjZqcC1hZC1hcCUzZDAlMjZ0YWclM2RqcGRlc2tzdGFuZHNlLTIyJTI2cmVmJTNkcGRfc2xfNzd6bnN0ZTlvMF9iJTI2YWRncnBpZCUzZDEzMjA1MTYxMjI1ODIxOTklMjZodmFkaWQlM2Q4MjUzMjUwMDUwMzEyMSUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJiJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDE0MDAzMSUyNmh2dGFyZ2lkJTNka3dkLTgyNTMzNjk0MzAyMDQzJTNhbG9jLTk2JTI2aHlkYWRjciUzZDI3NDg4XzE0ODE1MjQ0JTI2bWNpZCUzZGFhM2I5MDdkZDEyYTMyYzRiMGVlZGI5NDZkODU2OTMzJTI2bGFuZ3VhZ2UlM2RqYV9KUCUyNm1zY2xraWQlM2QwYjY5YTE2MjlhYzcxZjhkYjBkNGNiY2JjODFjMGFkYw%26rlid%3D0b69a1629ac71f8db0d4cbcbc81c0adc&vqd=4-53670553891926448245308017139825010104&iurl=%7B1%7DIG%3D930D6B4FC5B14B8895E386617D4B7267%26CID%3D09694E89E6926E743AA9595CE7606F02%26ID%3DDevEx%2C5039.1
+                  - button "广告" [ref=f1e434]
+                - link "band tortoiseを買うならAmazon。置き配指定など選べて便利な配送オプション。. Amazonなら欲しいアイテムがいつでも買える。お得なクーポン・タイムセールもお見逃しなく。" [ref=f1e438]:
+                  - /url: https://duckduckgo.com/y.js?ad_domain=amazon.co.jp&ad_provider=bingv7aa&ad_type=txad&click_metadata=xwRIHoX8boOBVp77Caf5BoHaU4Ja3cN9vVrHVsAv96xuHSNdjQfGv8gAwCKUePdK%2DQlyft6dnUJ_g3XjG5wJDP63DYut8Ivq7WQCN%2DBHN_9CTYdkqcGY4OfhjAt2MOc54PndBkY6ibMX6VcrU8ZBtQ.xY3OiygqNMctl9H%2DZ%2DY__w&eddgt=65C7eFfO8G_E0Aakrxjnpw%3D%3D&rut=6a3eff042c255efa141b1a877b161176762086d5cf629f0fc0aac21d7194b45c&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8h8%2DUJKoPirnzGygyi%2DUHGjVUCUwrKaLMsOcYQ8PluNsJEwf7bQiKJIELYPriJsBWqdjwtiliUqne5v8MYLuF7kzkHPoYv5Shx6imEtsjSsZFTrPN21HepqmqrC1K2QH5UM2lKeq4YHFrXVBK4oSSunKkoealJh4B9YCAlEk33XsetggDob51I1PcR364xE7f9vGsRwWgBSdBj_h2DguwYexTZys%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvLmpwJTJmcyUyZiUzZmllJTNkVVRGOCUyNmtleXdvcmRzJTNkYmFuZCUyYnRvcnRvaXNlJTI2aW5kZXglM2RhcHMlMjZqcC1hZC1hcCUzZDAlMjZ0YWclM2RqcGRlc2tzdGFuZHNlLTIyJTI2cmVmJTNkcGRfc2xfNzd6bnN0ZTlvMF9iJTI2YWRncnBpZCUzZDEzMjA1MTYxMjI1ODIxOTklMjZodmFkaWQlM2Q4MjUzMjUwMDUwMzEyMSUyNmh2bmV0dyUzZG8lMjZodnFtdCUzZHAlMjZodmJtdCUzZGJiJTI2aHZkZXYlM2RjJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZDE0MDAzMSUyNmh2dGFyZ2lkJTNka3dkLTgyNTMzNjk0MzAyMDQzJTNhbG9jLTk2JTI2aHlkYWRjciUzZDI3NDg4XzE0ODE1MjQ0JTI2bWNpZCUzZGFhM2I5MDdkZDEyYTMyYzRiMGVlZGI5NDZkODU2OTMzJTI2bGFuZ3VhZ2UlM2RqYV9KUCUyNm1zY2xraWQlM2QwYjY5YTE2MjlhYzcxZjhkYjBkNGNiY2JjODFjMGFkYw%26rlid%3D0b69a1629ac71f8db0d4cbcbc81c0adc&vqd=4-53670553891926448245308017139825010104&iurl=%7B1%7DIG%3D930D6B4FC5B14B8895E386617D4B7267%26CID%3D09694E89E6926E743AA9595CE7606F02%26ID%3DDevEx%2C5039.1
+            - listitem [ref=f1e440]:
+              - generic [ref=f1e448]:
+                - generic [ref=f1e449]:
+                  - generic [ref=f1e451]:
+                    - text: 为
+                    - strong [ref=f1e452]: Tortoise band official website
+                    - text: 生成答案
+                  - generic [ref=f1e453]:
+                    - button "关于 Search Assist" [ref=f1e454] [cursor=pointer]
+                    - button "更改 Search Assist 设置" [ref=f1e458] [cursor=pointer]
+                - button "Assist" [ref=f1e461] [cursor=pointer]: Search Assist
+            - listitem [ref=f1e467]:
+              - generic [ref=f1e469]:
+                - paragraph [ref=f1e470]: 与 Tortoise band official website 相关的搜索
+                - generic [ref=f1e471]:
+                  - list [ref=f1e472]:
+                    - listitem [ref=f1e473]:
+                      - link "tortoise discogs" [ref=f1e474] [cursor=pointer]:
+                        - /url: "?q=tortoise%20discogs&origin=related"
+                    - listitem [ref=f1e477]:
+                      - link "tortoise band wiki" [ref=f1e478] [cursor=pointer]:
+                        - /url: "?q=tortoise%20band%20wiki&origin=related"
+                    - listitem [ref=f1e481]:
+                      - link "tortoise bandcamp" [ref=f1e482] [cursor=pointer]:
+                        - /url: "?q=tortoise%20bandcamp&origin=related"
+                    - listitem [ref=f1e485]:
+                      - link "tortoise band merch" [ref=f1e486] [cursor=pointer]:
+                        - /url: "?q=tortoise%20band%20merch&origin=related"
+                    - listitem [ref=f1e489]:
+                      - link "tortoise tnt" [ref=f1e490] [cursor=pointer]:
+                        - /url: "?q=tortoise%20tnt&origin=related"
+                  - list [ref=f1e493]:
+                    - listitem [ref=f1e494]:
+                      - link "tortoise live" [ref=f1e495] [cursor=pointer]:
+                        - /url: "?q=tortoise%20live&origin=related"
+                    - listitem [ref=f1e498]:
+                      - link "tortoise songs list" [ref=f1e499] [cursor=pointer]:
+                        - /url: "?q=tortoise%20songs%20list&origin=related"
+                    - listitem [ref=f1e502]:
+                      - link "tortoise band t shirt" [ref=f1e503] [cursor=pointer]:
+                        - /url: "?q=tortoise%20band%20t%20shirt&origin=related"
+                    - listitem [ref=f1e506]:
+                      - link "tortoise on tour" [ref=f1e507] [cursor=pointer]:
+                        - /url: "?q=tortoise%20on%20tour&origin=related"
+                    - listitem [ref=f1e510]:
+                      - link "tortoise albums ranked" [ref=f1e511] [cursor=pointer]:
+                        - /url: "?q=tortoise%20albums%20ranked&origin=related"
+                - generic [ref=f1e519]:
+                  - text: 这有帮助吗？
+                  - button "Positive feedback" [ref=f1e520] [cursor=pointer]
+                  - button "Negative feedback" [ref=f1e524] [cursor=pointer]
+          - button "更多结果" [ref=f1e530] [cursor=pointer]
+        - list [ref=f1e532]:
+          - listitem [ref=f1e533]:
+            - generic [ref=f1e536]:
+              - generic [ref=f1e537]:
+                - generic [ref=f1e538]:
+                  - generic [ref=f1e539]:
+                    - link "更多图片" [ref=f1e540] [cursor=pointer]:
+                      - /url: /?q=Tortoise%20(band)%20American%20post-rock%20band&ia=images&iax=images
+                    - link [ref=f1e544] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Tortoise_(band)
+                      - heading "Tortoise" [level=2] [ref=f1e545]
+                    - generic [ref=f1e546]:
+                      - generic [ref=f1e547]: American post-rock band
+                      - link "trts.com" [ref=f1e548] [cursor=pointer]:
+                        - /url: http://trts.com
+                    - generic [ref=f1e549]:
+                      - generic [ref=f1e550]: Tortoise is an American post-rock band formed in Chicago, Illinois, in 1990. The band incorporates krautrock, dub, minimal music, electronica and jazz into their music, and their eclectic style has left a great influence on the post-rock genre ...
+                      - link "在 Wikipedia 中继续" [ref=f1e551] [cursor=pointer]:
+                        - /url: https://en.wikipedia.org/wiki/Tortoise_(band)
+                  - table [ref=f1e552]:
+                    - rowgroup [ref=f1e553]:
+                      - row [ref=f1e554]:
+                        - rowheader "Origin" [ref=f1e555]
+                        - cell "Chicago, Illinois, U.S." [ref=f1e556]
+                      - row [ref=f1e557]:
+                        - rowheader "Genres" [ref=f1e558]
+                        - cell "Post-rock" [ref=f1e559]
+                      - row [ref=f1e560]:
+                        - rowheader "Years active" [ref=f1e561]
+                        - cell "1990–present" [ref=f1e562]
+                  - generic [ref=f1e563]:
+                    - paragraph [aria-hidden] [ref=f1e564]: 快速链接
+                    - generic [ref=f1e565]:
+                      - link "Website" [ref=f1e566] [cursor=pointer]:
+                        - /url: http://trts.com
+                      - link "Wikipedia" [ref=f1e569] [cursor=pointer]:
+                        - /url: https://en.wikipedia.org/wiki/Tortoise_(band)
+                      - link "X" [ref=f1e572] [cursor=pointer]:
+                        - /url: https://twitter.com/TRTS
+                      - link "Instagram" [ref=f1e575] [cursor=pointer]:
+                        - /url: https://instagram.com/trts
+                      - link "Facebook" [ref=f1e578] [cursor=pointer]:
+                        - /url: https://facebook.com/TRTSband
+                      - link "Spotify" [ref=f1e581] [cursor=pointer]:
+                        - /url: https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ
+                - generic [ref=f1e585] [cursor=pointer]
+              - generic [ref=f1e588]:
+                - generic [ref=f1e590]:
+                  - text: 资料来源：
+                  - link "Wikipedia" [ref=f1e591] [cursor=pointer]:
+                    - /url: https://en.wikipedia.org/wiki/Tortoise_(band)
+                - generic [ref=f1e594]:
+                  - text: 这有帮助吗？
+                  - button "Positive feedback" [ref=f1e595] [cursor=pointer]
+                  - button "Negative feedback" [ref=f1e599] [cursor=pointer]
+    - list [ref=f1e604]:
+      - button "关闭菜单" [ref=f1e605] [cursor=pointer]
+      - list [ref=f1e609]:
+        - listitem [ref=f1e610]: 搜索
+        - listitem [ref=f1e611]:
+          - link "主页" [ref=f1e612] [cursor=pointer]:
+            - /url: https://start.duckduckgo.com/
+        - listitem [ref=f1e613]:
+          - link "配色" [ref=f1e614] [cursor=pointer]:
+            - /url: /settings#appearance
+        - listitem [ref=f1e615]:
+          - link "设置" [ref=f1e616] [cursor=pointer]:
+            - /url: /settings
+      - list [ref=f1e617]:
+        - listitem [ref=f1e618]: 意见反馈
+        - listitem [ref=f1e619]:
+          - generic [ref=f1e622]:
+            - button "Positive feedback" [ref=f1e623] [cursor=pointer]
+            - button "Negative feedback" [ref=f1e627] [cursor=pointer]
+      - list [ref=f1e631]:
+        - listitem [ref=f1e632]: 下载
+        - listitem [ref=f1e633]:
+          - link "iOS 浏览器" [ref=f1e634] [cursor=pointer]:
+            - /url: https://apps.apple.com/app/duckduckgo-private-browser/id663592361?platform=iphone&pt=866401&mt=8&ct=serp-atb-serp
+        - listitem [ref=f1e635]:
+          - link "Android 浏览器" [ref=f1e636] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&referrer=utm_campaign%3Dserp-atb-serp%26origin%3Dfunnel_playstore_searchresults
+        - listitem [ref=f1e637]:
+          - link "Mac 浏览器" [ref=f1e638] [cursor=pointer]:
+            - /url: /mac?origin=funnel_browser_searchresults
+        - listitem [ref=f1e639]:
+          - link "Windows 浏览器" [ref=f1e640] [cursor=pointer]:
+            - /url: /windows?origin=funnel_browser_searchresults
+        - listitem [ref=f1e641]:
+          - link "浏览器扩展插件" [ref=f1e642] [cursor=pointer]:
+            - /url: /duckduckgo-help-pages/desktop/adding-duckduckgo-to-your-browser/
+      - list [ref=f1e643]:
+        - listitem [ref=f1e644]: 更多 DuckDuckGo 产品和服务
+        - listitem [ref=f1e645]:
+          - generic [ref=f1e648]:
+            - button "关闭促销信息" [ref=f1e649] [cursor=pointer]
+            - generic [ref=f1e652]:
+              - paragraph [ref=f1e654]: 升级到我们的私密浏览器
+              - paragraph [ref=f1e666]: 快速。安全。免费。
+            - link "下载浏览器" [ref=f1e667] [cursor=pointer]:
+              - /url: /windows
+        - listitem [ref=f1e670]:
+          - link "Duck.ai" [ref=f1e671] [cursor=pointer]:
+            - /url: https://duck.ai
+        - listitem [ref=f1e672]:
+          - link "Email Protection" [ref=f1e673] [cursor=pointer]:
+            - /url: /email
+        - listitem [ref=f1e674]:
+          - link "简讯" [ref=f1e675] [cursor=pointer]:
+            - /url: /newsletter
+        - listitem [ref=f1e676]:
+          - link "博客" [ref=f1e677] [cursor=pointer]:
+            - /url: /blog
+        - listitem [ref=f1e678]:
+          - link "播客" [ref=f1e679] [cursor=pointer]:
+            - /url: https://insideduckduckgo.substack.com/?showWelcome=true
+        - listitem [ref=f1e680]:
+          - link "合作" [ref=f1e681] [cursor=pointer]:
+            - /url: /collaborations
+      - list [ref=f1e682]:
+        - listitem [ref=f1e683]: 详细了解
+        - listitem [ref=f1e684]:
+          - link "最新功能" [ref=f1e685] [cursor=pointer]:
+            - /url: /updates
+        - listitem [ref=f1e686]:
+          - link "隐私保护功能比较" [ref=f1e687] [cursor=pointer]:
+            - /url: /compare-privacy
+        - listitem [ref=f1e688]:
+          - link "关于我们的浏览器" [ref=f1e689] [cursor=pointer]:
+            - /url: /app
+        - listitem [ref=f1e690]:
+          - link "关于 DuckDuckGo" [ref=f1e691] [cursor=pointer]:
+            - /url: /about
+      - list [ref=f1e692]:
+        - listitem [ref=f1e693]: 其他资源
+        - listitem [ref=f1e694]:
+          - link "帮助" [ref=f1e695] [cursor=pointer]:
+            - /url: /duckduckgo-help-pages
+        - listitem [ref=f1e696]:
+          - link "社群" [ref=f1e697] [cursor=pointer]:
+            - /url: https://www.reddit.com/r/duckduckgo/
+        - listitem [ref=f1e698]:
+          - link "工作岗位" [ref=f1e699] [cursor=pointer]:
+            - /url: /careers
+        - listitem [ref=f1e700]:
+          - link "隐私协议" [ref=f1e701] [cursor=pointer]:
+            - /url: /privacy
+        - listitem [ref=f1e702]:
+          - link "服务条款" [ref=f1e703] [cursor=pointer]:
+            - /url: /terms
+        - listitem [ref=f1e704]:
+          - link "媒体资源" [ref=f1e705] [cursor=pointer]:
+            - /url: /press
+        - listitem [ref=f1e706]:
+          - link "在搜索时投放广告" [ref=f1e707] [cursor=pointer]:
+            - /url: /duckduckgo-help-pages/company/advertise-on-duckduckgo-search
+  - generic [ref=f1e713]:
+    - generic [ref=f1e729]:
+      - heading "下载我们的 Windows 浏览器" [level=3] [ref=f1e730]
+      - paragraph [ref=f1e731]: 在搜索、浏览和使用 AI 时保护你的数据。
+    - link "下载" [ref=f1e732] [cursor=pointer]:
+      - /url: https://duckduckgo.com/windows?origin=funnel_browser_searchresults__footercard
+  - button "意见反馈" [ref=f1e739] [cursor=pointer]
